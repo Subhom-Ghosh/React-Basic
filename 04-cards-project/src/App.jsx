@@ -105,8 +105,6 @@ const App = () => {
   },
 ];
 
-console.log(jobOpenings);
-
 
   return (
     <div className='parent'>
